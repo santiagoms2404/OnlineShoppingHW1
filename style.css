@@ -16,55 +16,12 @@ h1 {
     font-size: 150%;
     } 
 
-h2 {
-    font-size: 150%;
-    color: white;
-}
-
-h3 {
-    font-size: 150%;
-    color: white;
-}
-
-
-.leftHeader {
-    text-align: left;
-}
-
-.rightHeader {
-    text-align: right;
-}
-
-section {
-    display: -webkit-flex;
-    display: flex;
-}
-
-article {
-    -webkit-flex: 3;
-    -ms-flex: 3;
-    flex: 3;
-    background-color: black;
-    padding: 10px;
-}
 
 .contentStyle {
     color: white;
     text-align: center;
     font-size: 150%;
     }
-
-.image {
-    float: left;
-    background-color: gray;
-    box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white;
-}
-
-.feedback {
-    float: right;
-    color: white;
-    font-size: 125%;
-}
 
 .download{
     font-family: 'BebasNeueRegular';
