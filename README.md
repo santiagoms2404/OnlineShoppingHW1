@@ -1,11 +1,10 @@
 Santiago Marin Suarez 
-## Full Stack Homework 1 
-This site contains information about me such as my resume and portfolio. Also, there is a section where I include a brief about myself.
-
-> This code is also responsible for the user to be able to download my resume, and write a feedback on my portfolio.
+## Full Stack Homework 1 Online Shopping
+This site simulates an online shopping model. It will let the customer fill and submit an interest form. They will be able to enter their information such as name, email, phone, password, and a file where they can submit a previous bill.
 
 The following was used to create this site:
 - HTML
 - CSS
+- Github
 
 
